@@ -2,6 +2,8 @@
 
 A Work In Progress media player for 3ds using ffmpeg !
 
+This is my modded version. 
+
 #Requirements
 
 * DevkitArm
