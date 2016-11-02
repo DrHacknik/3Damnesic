@@ -34,6 +34,7 @@ void initServices()
     printf("Initializing the GPU...\n");
     gpuInit();
     printf("Done.\n");
+	printf("This App is a modded version of 3Damnesic, by Dr.Hacknik.\n");
 }
 
 void exitServices()
