@@ -50,6 +50,7 @@ At the moment, you have to specify the file path in the main.c file at compilati
     
 # TODO
 
+* Import VLC Components
 * Audio
 * Sync and time adjustment
 * File Browser and Menu
